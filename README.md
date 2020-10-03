@@ -1,4 +1,7 @@
 # Hacktoberfest
 
-##nama
+## Name
 Tria Bagus
+
+## Job
+Web Developer
