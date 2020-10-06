@@ -16,5 +16,5 @@ Javascript, PHP, SQL, Laravel, Wordpress
 ?>
 ``` 
 
-## Contributor
+## Contributors
 1. Guest Tria Bagus
