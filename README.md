@@ -18,3 +18,4 @@ Javascript, PHP, SQL, Laravel, Wordpress
 
 ## Contributors
 1. Guest Tria Bagus
+2. dbSixNine
