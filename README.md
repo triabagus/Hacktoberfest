@@ -4,8 +4,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 ![Hacktoberfest Logo Image](https://pbs.twimg.com/media/Ekdkh_HWAAEeQOX.jpg)
  
 ## Name
-Tria Bagus
-
+Abdlhq
 ## Job
 Web Developer
 
@@ -19,4 +18,4 @@ Javascript, PHP, SQL, Laravel, Wordpress
 ``` 
 
 ## Contributors
-1. Guest Tria Bagus
+1. Abdlhq
