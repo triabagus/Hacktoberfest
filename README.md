@@ -3,8 +3,8 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 ![Hacktoberfest Logo Image](https://pbs.twimg.com/media/Ekdkh_HWAAEeQOX.jpg)
  
-## Name
-Abdlhq
+## Name 
+Umar nasikhin 
 ## Job
 Web Developer
 
