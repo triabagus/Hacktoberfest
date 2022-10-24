@@ -3,11 +3,12 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 ## Name
 Tria Bagus Nur Taufik
+
 ## Job
 Web Developer
 
 ## Use Technologies, CMS and Frameworks
-Javascript, PHP, SQL, Laravel, Wordpress
+Javascript, PHP, SQL, Laravel, Wordpress, Wix, Shopify
 
 ```php
 <?php
