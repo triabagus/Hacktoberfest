@@ -6,6 +6,7 @@ Tria Bagus Nur Taufik
 
 ## Job
 Web Developer
+Software enginer
 
 ## Use Technologies, CMS and Frameworks
 Javascript, PHP, SQL, Laravel, Wordpress, Wix, Shopify
