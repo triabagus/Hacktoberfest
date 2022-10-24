@@ -11,7 +11,7 @@ Javascript, PHP, SQL, Laravel, Wordpress
 
 ```php
 <?php
-   echo 'Thank you Hacktoberfest 2020';
+   echo 'Thank you Hacktoberfest 2022';
 ?>
 ``` 
 
