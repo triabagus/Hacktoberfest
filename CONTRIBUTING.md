@@ -1,4 +1,4 @@
-#### Name: [Tria Topx](https://github.com/triatopx)
+#### Name: [Tria topx](https://github.com/triatopx)
 
 - Place: Batu, East Java, Indonesia
 - Bio: I'm is programmer
