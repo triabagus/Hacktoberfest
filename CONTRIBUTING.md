@@ -3,3 +3,4 @@
 - Place: Batu, East Java, Indonesia
 - Bio: I'm is programmer
 - GitHub: [triatopx](https://github.com/triatopx)
+- Language Code: PHP, Javascript
